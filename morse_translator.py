@@ -1,5 +1,4 @@
 from playsound import playsound
-import time
 from tkinter import *
 from PIL import ImageTk, Image
 
