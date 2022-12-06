@@ -1,4 +1,4 @@
-# Morse_code_translator_Street_Fighter_Edition
+# Morse Code Translator (Street Fighter Edition)
 
 This extremely useful and potentially life-saving app takes the user input and converts it into morse code, using Street Fighter punch sounds.
 
