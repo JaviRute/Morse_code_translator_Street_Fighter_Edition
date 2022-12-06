@@ -6,4 +6,4 @@ It's a GUI app built on Python with Tkinter.
 
 Image included for reference.
 
-![Morse_code_translator_Street_Fighter_Edition](images/morse.jpg)
+![Morse_code_translator_Street_Fighter_Edition](morse.jpg)
